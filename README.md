@@ -40,6 +40,6 @@ Can't get Git working and the discussion deadline is tonight? Please just paste 
 
 ## Response
 
-After submitting your pseudocode, go to the Canvas Discussion board and find another student's pseudocode. Then, respond with *constructive criticism* about potential pitfalls or ways to improve their pseudocode. Your response can simply be through a Canvas Discussion reply.
+After submitting your pseudocode, go to the Canvas Discussion board and find another student's pseudocode. Then, respond with _constructive criticism_ about potential pitfalls or ways to improve their pseudocode. Your response can simply be through a Canvas Discussion reply.
 
 Congrats! You're done with DIS E.
